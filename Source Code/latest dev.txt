@@ -93,7 +93,7 @@ var game={
     sound:true,
     
     //Loaded map
-    map:6,  
+    map:3,  
     
     //Position of the camera
     camera:{
